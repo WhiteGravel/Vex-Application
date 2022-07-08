@@ -1,2 +1,2 @@
-These files are how I made a shape with my Sphero Mini. I originally use the interioir angles one, before realising that it wouldn't work for triangles.
-I then made the code for the exterior angles, and it worked.
+These files are how I made a shape with my Sphero Mini. I originally use the interior angles program, before I saw that it didn't work
+I then attempted to use exterior angles, and I found that it worked as expected.
